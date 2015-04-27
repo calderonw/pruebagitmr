@@ -1,5 +1,8 @@
 <?php
 
+
+$varible = 22;
+
 $var = 0;
 
 if($var == 0){
@@ -8,7 +11,7 @@ if($var == 0){
 }
 
 
- echo 'calse de rutina';
+ echo 'calse de rutina'.' '.$varible;
 
 
 
