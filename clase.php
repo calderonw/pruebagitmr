@@ -7,13 +7,10 @@ $var = 0;
 
 if($var == 0){
 
-	echo'rama desarrollos';
-	echo'rama desarrollos';
-	echo'con commit';
+	echo'rama desarrollo en prueba';
+	
 }
 
-
- echo 'calse de rutina'.' '.$varible;
 
 
 
