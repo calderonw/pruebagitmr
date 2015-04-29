@@ -7,7 +7,7 @@ $var = 0;
 
 if($var == 0){
 
-	echo'rama master en prueba';
+	echo'rama desarrollo en prueba dos';
 	
 }
 
